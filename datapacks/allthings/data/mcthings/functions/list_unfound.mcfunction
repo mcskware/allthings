@@ -21,14 +21,11 @@ function mcthings:missing/armor_stand
 function mcthings:missing/arrow
 function mcthings:missing/azure_bluet
 function mcthings:missing/baked_potato
-function mcthings:missing/banner
 function mcthings:missing/beacon
-function mcthings:missing/bed
 function mcthings:missing/beef
 function mcthings:missing/beetroot
 function mcthings:missing/beetroot_seeds
 function mcthings:missing/beetroot_soup
-function mcthings:missing/beetroots
 function mcthings:missing/birch_bark
 function mcthings:missing/birch_boat
 function mcthings:missing/birch_button
@@ -43,6 +40,7 @@ function mcthings:missing/birch_sapling
 function mcthings:missing/birch_slab
 function mcthings:missing/birch_stairs
 function mcthings:missing/birch_trapdoor
+function mcthings:missing/black_banner
 function mcthings:missing/black_bed
 function mcthings:missing/black_carpet
 function mcthings:missing/black_concrete
@@ -55,6 +53,7 @@ function mcthings:missing/black_terracotta
 function mcthings:missing/black_wool
 function mcthings:missing/blaze_powder
 function mcthings:missing/blaze_rod
+function mcthings:missing/blue_banner
 function mcthings:missing/blue_bed
 function mcthings:missing/blue_carpet
 function mcthings:missing/blue_concrete
@@ -79,6 +78,7 @@ function mcthings:missing/brick
 function mcthings:missing/brick_slab
 function mcthings:missing/brick_stairs
 function mcthings:missing/bricks
+function mcthings:missing/brown_banner
 function mcthings:missing/brown_bed
 function mcthings:missing/brown_carpet
 function mcthings:missing/brown_concrete
@@ -97,7 +97,6 @@ function mcthings:missing/cactus_green
 function mcthings:missing/cake
 function mcthings:missing/carrot
 function mcthings:missing/carrot_on_a_stick
-function mcthings:missing/carrots
 function mcthings:missing/carved_pumpkin
 function mcthings:missing/cauldron
 function mcthings:missing/chainmail_boots
@@ -108,6 +107,7 @@ function mcthings:missing/charcoal
 function mcthings:missing/chest
 function mcthings:missing/chest_minecart
 function mcthings:missing/chicken
+function mcthings:missing/chipped_anvil
 function mcthings:missing/chiseled_quartz_block
 function mcthings:missing/chiseled_red_sandstone
 function mcthings:missing/chiseled_sandstone
@@ -115,7 +115,6 @@ function mcthings:missing/chiseled_stone_bricks
 function mcthings:missing/chorus_flower
 function mcthings:missing/chorus_fruit
 function mcthings:missing/chorus_fruit_popped
-function mcthings:missing/chorus_plant
 function mcthings:missing/clay
 function mcthings:missing/clay_ball
 function mcthings:missing/clock
@@ -129,7 +128,6 @@ function mcthings:missing/cobblestone_slab
 function mcthings:missing/cobblestone_stairs
 function mcthings:missing/cobblestone_wall
 function mcthings:missing/cobweb
-function mcthings:missing/cocoa
 function mcthings:missing/cocoa_beans
 function mcthings:missing/cod
 function mcthings:missing/comparator
@@ -147,6 +145,7 @@ function mcthings:missing/crafting_table
 function mcthings:missing/creeper_head
 function mcthings:missing/cut_red_sandstone
 function mcthings:missing/cut_sandstone
+function mcthings:missing/cyan_banner
 function mcthings:missing/cyan_bed
 function mcthings:missing/cyan_carpet
 function mcthings:missing/cyan_concrete
@@ -158,6 +157,7 @@ function mcthings:missing/cyan_stained_glass
 function mcthings:missing/cyan_stained_glass_pane
 function mcthings:missing/cyan_terracotta
 function mcthings:missing/cyan_wool
+function mcthings:missing/damaged_anvil
 function mcthings:missing/dandelion
 function mcthings:missing/dandelion_yellow
 function mcthings:missing/dark_oak_bark
@@ -194,6 +194,7 @@ function mcthings:missing/diamond_sword
 function mcthings:missing/diorite
 function mcthings:missing/dirt
 function mcthings:missing/dispenser
+function mcthings:missing/dragon_breath
 function mcthings:missing/dragon_egg
 function mcthings:missing/dragon_head
 function mcthings:missing/dropper
@@ -252,6 +253,7 @@ function mcthings:missing/granite
 function mcthings:missing/grass
 function mcthings:missing/grass_block
 function mcthings:missing/gravel
+function mcthings:missing/gray_banner
 function mcthings:missing/gray_bed
 function mcthings:missing/gray_carpet
 function mcthings:missing/gray_concrete
@@ -263,6 +265,7 @@ function mcthings:missing/gray_stained_glass
 function mcthings:missing/gray_stained_glass_pane
 function mcthings:missing/gray_terracotta
 function mcthings:missing/gray_wool
+function mcthings:missing/green_banner
 function mcthings:missing/green_bed
 function mcthings:missing/green_carpet
 function mcthings:missing/green_concrete
@@ -327,6 +330,7 @@ function mcthings:missing/leather_chestplate
 function mcthings:missing/leather_helmet
 function mcthings:missing/leather_leggings
 function mcthings:missing/lever
+function mcthings:missing/light_blue_banner
 function mcthings:missing/light_blue_bed
 function mcthings:missing/light_blue_carpet
 function mcthings:missing/light_blue_concrete
@@ -338,6 +342,7 @@ function mcthings:missing/light_blue_stained_glass
 function mcthings:missing/light_blue_stained_glass_pane
 function mcthings:missing/light_blue_terracotta
 function mcthings:missing/light_blue_wool
+function mcthings:missing/light_gray_banner
 function mcthings:missing/light_gray_bed
 function mcthings:missing/light_gray_carpet
 function mcthings:missing/light_gray_concrete
@@ -352,6 +357,7 @@ function mcthings:missing/light_gray_wool
 function mcthings:missing/light_weighted_pressure_plate
 function mcthings:missing/lilac
 function mcthings:missing/lily_pad
+function mcthings:missing/lime_banner
 function mcthings:missing/lime_bed
 function mcthings:missing/lime_carpet
 function mcthings:missing/lime_concrete
@@ -364,6 +370,7 @@ function mcthings:missing/lime_stained_glass_pane
 function mcthings:missing/lime_terracotta
 function mcthings:missing/lime_wool
 function mcthings:missing/lingering_potion
+function mcthings:missing/magenta_banner
 function mcthings:missing/magenta_bed
 function mcthings:missing/magenta_carpet
 function mcthings:missing/magenta_concrete
@@ -430,6 +437,7 @@ function mcthings:missing/oak_stairs
 function mcthings:missing/oak_trapdoor
 function mcthings:missing/observer
 function mcthings:missing/obsidian
+function mcthings:missing/orange_banner
 function mcthings:missing/orange_bed
 function mcthings:missing/orange_carpet
 function mcthings:missing/orange_concrete
@@ -447,6 +455,7 @@ function mcthings:missing/packed_ice
 function mcthings:missing/painting
 function mcthings:missing/paper
 function mcthings:missing/peony
+function mcthings:missing/pink_banner
 function mcthings:missing/pink_bed
 function mcthings:missing/pink_carpet
 function mcthings:missing/pink_concrete
@@ -468,7 +477,6 @@ function mcthings:missing/polished_granite
 function mcthings:missing/poppy
 function mcthings:missing/porkchop
 function mcthings:missing/potato
-function mcthings:missing/potatoes
 function mcthings:missing/potion
 function mcthings:missing/powered_rail
 function mcthings:missing/prismarine
@@ -479,6 +487,7 @@ function mcthings:missing/pufferfish
 function mcthings:missing/pumpkin
 function mcthings:missing/pumpkin_pie
 function mcthings:missing/pumpkin_seeds
+function mcthings:missing/purple_banner
 function mcthings:missing/purple_bed
 function mcthings:missing/purple_carpet
 function mcthings:missing/purple_concrete
@@ -504,6 +513,7 @@ function mcthings:missing/rabbit_foot
 function mcthings:missing/rabbit_hide
 function mcthings:missing/rabbit_stew
 function mcthings:missing/rail
+function mcthings:missing/red_banner
 function mcthings:missing/red_bed
 function mcthings:missing/red_carpet
 function mcthings:missing/red_concrete
@@ -604,6 +614,7 @@ function mcthings:missing/water_bucket
 function mcthings:missing/wet_sponge
 function mcthings:missing/wheat
 function mcthings:missing/wheat_seeds
+function mcthings:missing/white_banner
 function mcthings:missing/white_bed
 function mcthings:missing/white_carpet
 function mcthings:missing/white_concrete
@@ -623,6 +634,7 @@ function mcthings:missing/wooden_shovel
 function mcthings:missing/wooden_sword
 function mcthings:missing/writable_book
 function mcthings:missing/written_book
+function mcthings:missing/yellow_banner
 function mcthings:missing/yellow_bed
 function mcthings:missing/yellow_carpet
 function mcthings:missing/yellow_concrete

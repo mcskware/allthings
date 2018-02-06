@@ -21,14 +21,11 @@ function mcthings:tests/armor_stand
 function mcthings:tests/arrow
 function mcthings:tests/azure_bluet
 function mcthings:tests/baked_potato
-function mcthings:tests/banner
 function mcthings:tests/beacon
-function mcthings:tests/bed
 function mcthings:tests/beef
 function mcthings:tests/beetroot
 function mcthings:tests/beetroot_seeds
 function mcthings:tests/beetroot_soup
-function mcthings:tests/beetroots
 function mcthings:tests/birch_bark
 function mcthings:tests/birch_boat
 function mcthings:tests/birch_button
@@ -43,6 +40,7 @@ function mcthings:tests/birch_sapling
 function mcthings:tests/birch_slab
 function mcthings:tests/birch_stairs
 function mcthings:tests/birch_trapdoor
+function mcthings:tests/black_banner
 function mcthings:tests/black_bed
 function mcthings:tests/black_carpet
 function mcthings:tests/black_concrete
@@ -55,6 +53,7 @@ function mcthings:tests/black_terracotta
 function mcthings:tests/black_wool
 function mcthings:tests/blaze_powder
 function mcthings:tests/blaze_rod
+function mcthings:tests/blue_banner
 function mcthings:tests/blue_bed
 function mcthings:tests/blue_carpet
 function mcthings:tests/blue_concrete
@@ -79,6 +78,7 @@ function mcthings:tests/brick
 function mcthings:tests/brick_slab
 function mcthings:tests/brick_stairs
 function mcthings:tests/bricks
+function mcthings:tests/brown_banner
 function mcthings:tests/brown_bed
 function mcthings:tests/brown_carpet
 function mcthings:tests/brown_concrete
@@ -97,7 +97,6 @@ function mcthings:tests/cactus_green
 function mcthings:tests/cake
 function mcthings:tests/carrot
 function mcthings:tests/carrot_on_a_stick
-function mcthings:tests/carrots
 function mcthings:tests/carved_pumpkin
 function mcthings:tests/cauldron
 function mcthings:tests/chainmail_boots
@@ -108,6 +107,7 @@ function mcthings:tests/charcoal
 function mcthings:tests/chest
 function mcthings:tests/chest_minecart
 function mcthings:tests/chicken
+function mcthings:tests/chipped_anvil
 function mcthings:tests/chiseled_quartz_block
 function mcthings:tests/chiseled_red_sandstone
 function mcthings:tests/chiseled_sandstone
@@ -115,7 +115,6 @@ function mcthings:tests/chiseled_stone_bricks
 function mcthings:tests/chorus_flower
 function mcthings:tests/chorus_fruit
 function mcthings:tests/chorus_fruit_popped
-function mcthings:tests/chorus_plant
 function mcthings:tests/clay
 function mcthings:tests/clay_ball
 function mcthings:tests/clock
@@ -129,7 +128,6 @@ function mcthings:tests/cobblestone_slab
 function mcthings:tests/cobblestone_stairs
 function mcthings:tests/cobblestone_wall
 function mcthings:tests/cobweb
-function mcthings:tests/cocoa
 function mcthings:tests/cocoa_beans
 function mcthings:tests/cod
 function mcthings:tests/comparator
@@ -147,6 +145,7 @@ function mcthings:tests/crafting_table
 function mcthings:tests/creeper_head
 function mcthings:tests/cut_red_sandstone
 function mcthings:tests/cut_sandstone
+function mcthings:tests/cyan_banner
 function mcthings:tests/cyan_bed
 function mcthings:tests/cyan_carpet
 function mcthings:tests/cyan_concrete
@@ -158,6 +157,7 @@ function mcthings:tests/cyan_stained_glass
 function mcthings:tests/cyan_stained_glass_pane
 function mcthings:tests/cyan_terracotta
 function mcthings:tests/cyan_wool
+function mcthings:tests/damaged_anvil
 function mcthings:tests/dandelion
 function mcthings:tests/dandelion_yellow
 function mcthings:tests/dark_oak_bark
@@ -194,6 +194,7 @@ function mcthings:tests/diamond_sword
 function mcthings:tests/diorite
 function mcthings:tests/dirt
 function mcthings:tests/dispenser
+function mcthings:tests/dragon_breath
 function mcthings:tests/dragon_egg
 function mcthings:tests/dragon_head
 function mcthings:tests/dropper
@@ -252,6 +253,7 @@ function mcthings:tests/granite
 function mcthings:tests/grass
 function mcthings:tests/grass_block
 function mcthings:tests/gravel
+function mcthings:tests/gray_banner
 function mcthings:tests/gray_bed
 function mcthings:tests/gray_carpet
 function mcthings:tests/gray_concrete
@@ -263,6 +265,7 @@ function mcthings:tests/gray_stained_glass
 function mcthings:tests/gray_stained_glass_pane
 function mcthings:tests/gray_terracotta
 function mcthings:tests/gray_wool
+function mcthings:tests/green_banner
 function mcthings:tests/green_bed
 function mcthings:tests/green_carpet
 function mcthings:tests/green_concrete
@@ -327,6 +330,7 @@ function mcthings:tests/leather_chestplate
 function mcthings:tests/leather_helmet
 function mcthings:tests/leather_leggings
 function mcthings:tests/lever
+function mcthings:tests/light_blue_banner
 function mcthings:tests/light_blue_bed
 function mcthings:tests/light_blue_carpet
 function mcthings:tests/light_blue_concrete
@@ -338,6 +342,7 @@ function mcthings:tests/light_blue_stained_glass
 function mcthings:tests/light_blue_stained_glass_pane
 function mcthings:tests/light_blue_terracotta
 function mcthings:tests/light_blue_wool
+function mcthings:tests/light_gray_banner
 function mcthings:tests/light_gray_bed
 function mcthings:tests/light_gray_carpet
 function mcthings:tests/light_gray_concrete
@@ -352,6 +357,7 @@ function mcthings:tests/light_gray_wool
 function mcthings:tests/light_weighted_pressure_plate
 function mcthings:tests/lilac
 function mcthings:tests/lily_pad
+function mcthings:tests/lime_banner
 function mcthings:tests/lime_bed
 function mcthings:tests/lime_carpet
 function mcthings:tests/lime_concrete
@@ -364,6 +370,7 @@ function mcthings:tests/lime_stained_glass_pane
 function mcthings:tests/lime_terracotta
 function mcthings:tests/lime_wool
 function mcthings:tests/lingering_potion
+function mcthings:tests/magenta_banner
 function mcthings:tests/magenta_bed
 function mcthings:tests/magenta_carpet
 function mcthings:tests/magenta_concrete
@@ -430,6 +437,7 @@ function mcthings:tests/oak_stairs
 function mcthings:tests/oak_trapdoor
 function mcthings:tests/observer
 function mcthings:tests/obsidian
+function mcthings:tests/orange_banner
 function mcthings:tests/orange_bed
 function mcthings:tests/orange_carpet
 function mcthings:tests/orange_concrete
@@ -447,6 +455,7 @@ function mcthings:tests/packed_ice
 function mcthings:tests/painting
 function mcthings:tests/paper
 function mcthings:tests/peony
+function mcthings:tests/pink_banner
 function mcthings:tests/pink_bed
 function mcthings:tests/pink_carpet
 function mcthings:tests/pink_concrete
@@ -468,7 +477,6 @@ function mcthings:tests/polished_granite
 function mcthings:tests/poppy
 function mcthings:tests/porkchop
 function mcthings:tests/potato
-function mcthings:tests/potatoes
 function mcthings:tests/potion
 function mcthings:tests/powered_rail
 function mcthings:tests/prismarine
@@ -479,6 +487,7 @@ function mcthings:tests/pufferfish
 function mcthings:tests/pumpkin
 function mcthings:tests/pumpkin_pie
 function mcthings:tests/pumpkin_seeds
+function mcthings:tests/purple_banner
 function mcthings:tests/purple_bed
 function mcthings:tests/purple_carpet
 function mcthings:tests/purple_concrete
@@ -504,6 +513,7 @@ function mcthings:tests/rabbit_foot
 function mcthings:tests/rabbit_hide
 function mcthings:tests/rabbit_stew
 function mcthings:tests/rail
+function mcthings:tests/red_banner
 function mcthings:tests/red_bed
 function mcthings:tests/red_carpet
 function mcthings:tests/red_concrete
@@ -604,6 +614,7 @@ function mcthings:tests/water_bucket
 function mcthings:tests/wet_sponge
 function mcthings:tests/wheat
 function mcthings:tests/wheat_seeds
+function mcthings:tests/white_banner
 function mcthings:tests/white_bed
 function mcthings:tests/white_carpet
 function mcthings:tests/white_concrete
@@ -623,6 +634,7 @@ function mcthings:tests/wooden_shovel
 function mcthings:tests/wooden_sword
 function mcthings:tests/writable_book
 function mcthings:tests/written_book
+function mcthings:tests/yellow_banner
 function mcthings:tests/yellow_bed
 function mcthings:tests/yellow_carpet
 function mcthings:tests/yellow_concrete
